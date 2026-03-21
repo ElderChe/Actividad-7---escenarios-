@@ -40,3 +40,6 @@ Está bien de hecho he terminado de redactar el flujo completo: Inicio de sesió
 **Carlos:**
 Jefferson me acaba de avisar que se quedó sin energía eléctrica. Entonces informaré de este estado. Por cierto ya envíe el documento final como lo solicitaste y vamos bien de tiempo.
 
+
+## Conclusiones
+El equipo logró adaptar su estructura de trabajo ante una contingencia técnica. La comunicación mantuvo la netiqueta profesional y se cumplieron todos los objetivos de la tarea dentro del tiempo estipulado.
