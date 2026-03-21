@@ -1,13 +1,13 @@
 # Registro de Simulación: Equipo Remoto para plataformas de estudio
 # Guión
 **Elder:**
-Hola, Carlos y Jefferson qué tal ¡cómo están?. gusto saludarlos. Entonces iniciamos la actividad: Plataforma de Reserva de Salas. Yo diría que estos roles están bien: yo seré el **Moderador**, Carlos el **Timekeeper** y Jefferson el **Notetaker**. ¿Están de acuerdo con esta distribución?
+Hola, Carlos y Jefferson qué tal ¡cómo están?. gusto saludarlos. Entonces iniciamos la actividad: Plataforma de Reserva de Salas. Yo diría que estos roles están bien: yo seré el Moderador, Carlos el Timekeeper y Jefferson el Notetaker. ¿Están de acuerdo con esta distribución?
 
 **Carlos:**
 Hola, Elder. Sí me parecen muy bien los roles. Les recuerdo que tenemos un tiempo limitado para completar los 5 puntos y generar el documento final. Sugiero que empecemos de inmediato con la Tarea sobre la identificación de necesidades.
 
 **Jefferson:**
-Holaaa! Acepto el rol de **Notetaker**. En este momento ya estoy abriendo mi documento. Para la Tarea que me asignaron, considero que la necesidad principal es que los estudiantes pierden mucho tiempo buscando salas vacías ultimamente entonces tenemos que hacer que eso deje de suceder.
+Holaaa! Acepto el rol de Notetaker. En este momento ya estoy abriendo mi documento. Para la Tarea que me asignaron, considero que la necesidad principal es que los estudiantes pierden mucho tiempo buscando salas vacías ultimamente entonces tenemos que hacer que eso deje de suceder.
 
 **Elder:**
 Excelente punto, Jefferson. Carlos, ¿podrías ver qué usuarios se registran a estas salas? mientras yo redacto reviso cuántas personas normalmente reservan este tipo de lugares y voy a ir indicando algunas funcionalidades. Jefferson, por favor ve registrando estas definiciones en la sección de "Funcionalidades" del documento.
@@ -15,7 +15,7 @@ Excelente punto, Jefferson. Carlos, ¿podrías ver qué usuarios se registran a 
 **Carlos:**
 Listo, anotado. Usuarios definidos: 1. Estudiante que va a ser el que reserva y se hospeda y 2. Administrador quien gestiona dichos lugares. Ya subí la descripción al borrador.
 
-> **[EVENTO SIMULADO: PÉRDIDA DE CONEXIÓN DE JEFFERSON]**
+> [EVENTO SIMULADO: PÉRDIDA DE CONEXIÓN DE JEFFERSON]
 
 **Elder:**
 Jefferson, ¿pudiste registrar mis funcionalidades cómo te pedi? necesitamos avanzar.
