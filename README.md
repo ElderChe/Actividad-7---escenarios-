@@ -1,3 +1,8 @@
+# Datos
+### Carlos Rolando Barrios Estrada 202500432 
+### Elder Rodolfo Ché Mijangos 202503236 
+### Jefferson Bernardino López Galicia 202505204
+
 # Registro de Simulación: Equipo Remoto para plataformas de estudio
 # Guión
 **Elder:**
